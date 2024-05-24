@@ -1,7 +1,7 @@
 # Starbuck Project
 
 
-A Blog post for this project is [here]. 
+A Blog post for this project is [here](https://medium.com/@ziyu1211/find-the-target-customer-for-starbuck-496bfe64ac3d) on Medium. 
 
 
 ### Description
